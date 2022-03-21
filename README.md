@@ -57,3 +57,10 @@ Anyone. Families and teams are encouraged.
  5. Clone your project locally, and open it with your editor of choice
 
 (Videos on this will be forthcoming)
+
+# Some Hints
+
+ * The template provided gives you the foundation for a turn-based game
+ * FTXUI has a canvas: https://github.com/ArthurSonzogni/FTXUI/blob/master/examples/dom/canvas.cpp
+ * The "homescreen" example shows how to do live animations / event loop https://arthursonzogni.com/FTXUI/examples/?file=component/homescreen
+ * It should be possible to create a normal game loop
