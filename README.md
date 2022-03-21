@@ -64,3 +64,4 @@ Anyone. Families and teams are encouraged.
  * FTXUI has a canvas: https://github.com/ArthurSonzogni/FTXUI/blob/master/examples/dom/canvas.cpp
  * The "homescreen" example shows how to do live animations / event loop https://arthursonzogni.com/FTXUI/examples/?file=component/homescreen
  * It should be possible to create a normal game loop
+ * There are Unicode fonts which might prove to be useful: https://unicode-table.com/en/blocks/block-elements/ https://unicode-table.com/en/blocks/symbols-for-legacy-computing/
