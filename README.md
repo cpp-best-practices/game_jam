@@ -1,4 +1,4 @@
-# Jaosn's C++ Best Practices Game Jam Official Rules
+# Jason's C++ Best Practices Game Jam Official Rules
 
 The C++ Best Practices Game Jam is a periodic friendly competition designed to promote the learning of C++ through game creation in an environment that makes it easy to apply Best Practices.
 
@@ -38,7 +38,7 @@ Game Jams will last across two weekends, and the week inbetween. Voting and eval
 
 Games must:
  * use [FTXUI](https://github.com/ArthurSonzogni/FTXUI)
- * be created from c via "use this template."
+ * be created from the [C++ Best Practices/ftxui_template project](https://github.com/cpp-best-practices/ftxui_template) via "use this template."
  * compile with no warnings or errors on all pre-configured [actions](https://github.com/cpp-best-practices/ftxui_template/actions)
  * have selected a license
  * run with no errors from Address Sanitizer or Undefined Behavior Sanitizer (as configured by default in "developer mode" of the provided template)
