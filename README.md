@@ -27,6 +27,10 @@ There is currently no actual prizes planned, but in case there are prizes awarde
  * YouTube [Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/) apply
  * YouTube is not a sponsor
 
+## Announcements!
+
+ * [Jam 1, April 2022, is announced](Jam1_April_2022)
+
 
 ## Basic Timeline
 
