@@ -1,10 +1,28 @@
-# C++ Best Practices Game Jam
+# Jaosn's C++ Best Practices Game Jam Official Rules
 
 The C++ Best Practices Game Jam is a periodic friendly competition designed to promote the learning of C++ through game creation in an environment that makes it easy to apply Best Practices.
 
+## Who is Jason and Why Does He Have a Game Jam?
+
+Jason Turner (aka lefticus):
+
+ * Host of [C++ Weekly YouTube Channel](https://www.youtube.com/channel/UCxHAlbZQNFU2LgEtiqd2Maw)
+ * Co-host of [CppCast](https://cppcast.com)
+ * Author of the book "C++ Best Practices" and several C++ related puzzle books available on [Leanpub](https://leanpub.com/u/jason_turner) and [Amazon](https://www.amazon.com/Jason-Turner/e/B0034N9C8G%3Fref=dbs_a_mng_rwt_scns_share)
+
+At the start of 2022 Jason made it a goal of his channel and Twitter interactions to make C++ "Fun and Accessible." The hope is that this game jam provides a FUN environment for people to learn C++.
+
 ## Code of Conduct
 
-All interactions around the game jam is to be governed by the [Berlin Code of Conduct](https://berlincodeofconduct.org/). If you, your team, or your project are found to be in violation of the code of conduct, then your submission wil be disqualified.
+All interactions around the game jam are to be governed by the [Berlin Code of Conduct](https://berlincodeofconduct.org/). If you, your team, or your project are found to be in violation of the code of conduct, then your submission wil be disqualified.
+
+## Funding, Sponsorships and Prizes
+
+There is currently no actual prizes planned, but in case there are prizes awarded, I must note:
+
+ * YouTube [Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/) apply
+ * YouTube is not a sponsor
+
 
 ## Basic Timeline
 
@@ -32,9 +50,17 @@ Submission requirements:
  * submissions must link to a specific github release on your project
  * PR (and release) must be dated before the submission deadline
 
+By participating in this Game Jame you agree to release YouTube and Jason Turner from any liability related to your participation.
+
 ## Who Can Participate?
 
-Anyone. Families and teams are encouraged.
+Anyone willing to follow the Code of Conduct. Families and teams are encouraged.
+
+## Teams
+
+Teams of any size are allowed. Just be aware that coordinating large teams can be difficult. To meet other people to join into a team, join the [Discord](https://discord.gg/tnGs7Jju)
+
+
 
 ## How Submissions Are Judged
 
