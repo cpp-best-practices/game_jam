@@ -2,6 +2,10 @@
 
 The C++ Best Practices Game Jam is a periodic friendly competition designed to promote the learning of C++ through game creation in an environment that makes it easy to apply Best Practices.
 
+Be sure to read through this entire document. We want you to have fun, and have given you startup projects that help you succeed and apply all of the rules!
+
+Also, it's fine to start playing with the game project template today and familiarize yourself with it.
+
 ## Who is Jason and Why Does He Have a Game Jam?
 
 Jason Turner (aka lefticus):
@@ -55,6 +59,10 @@ By participating in this Game Jame you agree to release YouTube and Jason Turner
 ## Who Can Participate?
 
 Anyone willing to follow the Code of Conduct. Families and teams are encouraged.
+
+## What Libraries Can I Use?
+
+Anything you want to, as long as it does not violate any other rules. Conan package manager is provided with the template, and it uses some packages already. However, all output must still happen through FTXUI.
 
 ## Teams
 
