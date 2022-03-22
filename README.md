@@ -1,3 +1,6 @@
+ * [Jam 1, April 2022, is announced](Jam1_April_2022)
+
+
 # Jason's C++ Best Practices Game Jam Official Rules
 
 The C++ Best Practices Game Jam is a periodic friendly competition designed to promote the learning of C++ through game creation in an environment that makes it easy to apply Best Practices.
