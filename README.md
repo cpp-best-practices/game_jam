@@ -61,7 +61,7 @@ Submission requirements:
  * submissions must link to a specific github release on your project
  * PR (and release) must be dated before the submission deadline
 
-By participating in this Game Jame you agree to release YouTube and Jason Turner from any liability related to your participation.
+By participating in this Game Jam you agree to release YouTube and Jason Turner from any liability related to your participation.
 
 ## Who Can Participate?
 
