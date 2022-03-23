@@ -14,7 +14,7 @@ Currently no prizes are planned. If you want to be a sponsor, contact me.
 
 ## Rules
 
-All rules are stated in the [main readme](../readme.md).
+All rules are stated in the [main readme](../README.md).
 
 ## Submissions
 
