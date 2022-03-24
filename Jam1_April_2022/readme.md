@@ -18,7 +18,7 @@ All rules are stated in the [main readme](../README.md).
 
 ## Submissions
 
-You can submit whenver you like, but the tag that is listed in your PR at the time of submission closure will be the version that is judged.
+You can submit whenever you like, but the tag that is listed in your PR at the time of submission closure will be the version that is judged.
 
 Create a PR into this folder. Example
 
