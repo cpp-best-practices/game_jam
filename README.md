@@ -106,3 +106,8 @@ Teams of any size are allowed. Just be aware that coordinating large teams can b
  * The "homescreen" example shows how to do live animations / event loop https://arthursonzogni.com/FTXUI/examples/?file=component/homescreen
  * It should be possible to create a normal game loop
  * There are Unicode fonts which might prove to be useful: https://unicode-table.com/en/blocks/block-elements/ https://unicode-table.com/en/blocks/symbols-for-legacy-computing/
+
+# Configuration Notes
+
+* clion on Windows is currently an untested configuration, and you might have difficulty getting ASAN, cppcheck, and clang-tidy to be found. They can be installed, but it will take manual work to get them located.
+* The easiest option for changing settings is to use your cmake-gui of choice. However, if you want to change options during CMake configuration time (commandline or from your IDE's options, you should be able to follow this example from the [CMakePresets.json](https://github.com/cpp-best-practices/cpp_boilerplate_project/blob/main/CMakePresets.json#L35-L38)
