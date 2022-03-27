@@ -1,5 +1,10 @@
  * [Jam 1, April 2022, is announced](Jam1_April_2022)
 
+# News
+
+ * 2022-03-22 - April 2022 Jam officially announced
+ * 2022-03-24 - April 2022 [Getting Started](https://youtu.be/4V4ZrB3o6g4) Video Released
+ * 2022-03-27 - [Discord link](https://discord.gg/KuKzESDdbt) updated (old one expired)
 
 # Jason's C++ Best Practices Game Jam Official Rules
 
