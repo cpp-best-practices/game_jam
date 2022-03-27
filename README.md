@@ -73,7 +73,7 @@ Anything you want to, as long as it does not violate any other rules. Conan pack
 
 ## Teams
 
-Teams of any size are allowed. Just be aware that coordinating large teams can be difficult. To meet other people to join into a team, join the [Discord](https://discord.gg/tnGs7Jju)
+Teams of any size are allowed. Just be aware that coordinating large teams can be difficult. To meet other people to join into a team, join the [Discord](https://discord.gg/KuKzESDdbt)
 
 
 
