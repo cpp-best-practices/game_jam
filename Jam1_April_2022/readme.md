@@ -1,6 +1,12 @@
-# Jam 1 : April 2022
+# Jam 1 : April 2022 - "Round"
 
 The first game jam will begin on April 1, 2022 (no this is not a joke)!
+
+## Theme
+
+The theme for the April 2022 C++ Best Practices Game Jam is: "Round".
+
+You can interpret this theme in any way that makes sense to you, but you submission must include the use of this theme.
 
 ## Timeline
 
