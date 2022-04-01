@@ -8,6 +8,8 @@ The theme for the April 2022 C++ Best Practices Game Jam is: "Round".
 
 You can interpret this theme in any way that makes sense to you, but you submission must include the use of this theme.
 
+For inspiration, you can look at the [English Wikipedia page for "Round"](https://en.wikipedia.org/wiki/Round).
+
 ## Timeline
 
  * April 1, 2022 12:00 UTC: Topic announcement
