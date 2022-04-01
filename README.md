@@ -15,6 +15,11 @@ Be sure to read through this entire document. We want you to have fun, and have 
 
 Also, it's fine to start playing with the game project template today and familiarize yourself with it.
 
+## Social Media
+
+Please use #CppBestPracticesGameJam on social media, and feel free to add your Twitch / dev links here in a Pull Request:
+
+
 ## Who is Jason and Why Does He Have a Game Jam?
 
 Jason Turner (aka lefticus):
