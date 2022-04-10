@@ -4,6 +4,8 @@ You have the board 9x9 of LEDs. Your task is to light or dim all of them. You ca
 
 link to project: https://github.com/SewerynKaminski/cpp-best-practices_game_jam_1/releases/tag/LightsRound.v.0.1.0
 
+![https://github.com/SewerynKaminski/cpp-best-practices_game_jam_1/blob/main/LightsRound.png]
+
 # Team
 
  * Seweryn Kamiński
