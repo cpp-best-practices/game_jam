@@ -24,6 +24,16 @@ The text-grid layout of FTXUI immediately made me think of Minesweeper.
 When the theme "round" was revealed, I decided to make an adaptation of Minesweeper that occurs over
 many rounds.
 
+# Code Quality
+
+The Minesweeper Marathon source code is organized into 4 modules, each with a separation translation unit.
+
+`minesweeper` depends on `game`, which depends on `board`, which depends on `bitmap`.
+
+All source code compiles with no warnings or errors on all pre-configured actions. 
+
+The core components - `game`, `board`, and `bitmap` - have 100% line coverage from Catch2 unit tests. 
+
 # Online Play
 
 When I was reading through the FTXUI docs, I was immediately struck by the [online examples](https://arthursonzogni.com/FTXUI/examples/?file=component/canvas_animated).
