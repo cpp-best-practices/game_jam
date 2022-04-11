@@ -1,6 +1,7 @@
 # 2022 Game Jam submission: Sumo
 
-Some really cool description of your super cool game.
+It's exactly as it sounds. A pixel-art sumo fighting game!
+:D
 
 link to project: https://github.com/valerioformato/sumo_game/releases/tag/v1.0.0
 
