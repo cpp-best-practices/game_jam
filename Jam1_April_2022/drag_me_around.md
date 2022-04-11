@@ -4,6 +4,8 @@ Not really a game, as it has no gameplay component to it. I'd call this submissi
 
 The player's objective is to drag a "thing" around, watch it wiggle, and gain some score.
 
+Link to project: https://github.com/oskidan/round
+
 # Team
 
 * [Just me](https://github.com/oskidan).
