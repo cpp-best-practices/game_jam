@@ -8,13 +8,15 @@
 
 Project repo: https://github.com/ArthurSonzogni/termBreaker
 
-Submission release: https://github.com/ebarlas/minesweeper_ftxui/releases/tag/v0.0.2
+Submission release: https://github.com/ArthurSonzogni/termBreaker/releases/tag/v0.0.3
 
 **Screenshot**
+
 ![image](https://user-images.githubusercontent.com/4759106/162655635-39631d49-924f-46fe-bebd-24e834f9dd36.png)
 
 
 **Video**
+
 https://user-images.githubusercontent.com/4759106/162654777-de337c90-8d31-4a03-a5d9-a13fc606fb5e.mp4
 
 
@@ -24,7 +26,7 @@ https://user-images.githubusercontent.com/4759106/162654777-de337c90-8d31-4a03-a
 
 # Interpretation of Theme
 
-When the theme is "round", you have to make balls. Many! Ideally the goal of the game is buy more and more of them.
+When the theme is "round", you have to make balls. Many! Ideally the goal of the game is to buy more and more of them.
 
 # Code Quality
 
