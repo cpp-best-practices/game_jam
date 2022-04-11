@@ -10,7 +10,11 @@ Project repo: https://github.com/ArthurSonzogni/termBreaker
 
 Submission release: https://github.com/ebarlas/minesweeper_ftxui/releases/tag/v0.0.2
 
+**Screenshot**
+![image](https://user-images.githubusercontent.com/4759106/162655635-39631d49-924f-46fe-bebd-24e834f9dd36.png)
 
+
+**Video**
 https://user-images.githubusercontent.com/4759106/162654777-de337c90-8d31-4a03-a5d9-a13fc606fb5e.mp4
 
 
@@ -28,6 +32,7 @@ When the theme is "round", you have to make balls. Many! Ideally the goal of the
 - I didn't have time for adding fuzzers.
 - I tried using IWYU, like I did in many project, but I have errors and abandonned.
 - The CI on MSVC on Window with DEVELOPER_MODE was failing. I don't own a Windows desktop, and there was no clear error. I had to remove them from the CQ.
+- Audio works, but the underlying library do not pass with ASAN. Audio can be enabled/disabled behind a the "ENABLE_AUDIO" flag. There is also a menu at runtime in the intro that you can use.
 
 # Online Play
 
