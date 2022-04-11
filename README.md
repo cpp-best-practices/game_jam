@@ -5,6 +5,9 @@ Will you be able to survive?
 
 link to project: https://github.com/JungerBoyo/TheWorld/releases/tag/game_jam_submission
 
+[![gamejam-scr0.png](https://i.postimg.cc/5NNwqZRg/gamejam-scr0.png)](https://postimg.cc/fkptMgZS)
+[![gamejam-scr1.png](https://i.postimg.cc/SQG69yDj/gamejam-scr1.png)](https://postimg.cc/w37R8dKd)
+
 # Team
 
  * JungerBoyo
