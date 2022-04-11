@@ -1,7 +1,7 @@
 # 2022 Game Jam submission: TheWorld
 
 First you have to answer three personal questions. Based on that you will get ... ;). To merge the worlds of square and round, you will have to accomplish 8 halls which are guarded by monsters triggered by tension between worlds... 
-Will you be able to combine them?
+Will you be able to survive?
 
 link to project: https://github.com/JungerBoyo/TheWorld/releases/tag/game_jam_submission
 
