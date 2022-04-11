@@ -1,34 +1,21 @@
- * [Jam 1, April 2022, is announced](Jam1_April_2022)
+# 2022 Game Jam submission: TheWorld
 
-# News
+First you have to answer three personal questions. Based on that you will get ... ;). To merge the worlds of square and round, you will have to accomplish 8 halls which are guarded by monsters triggered by tension between worlds... 
+Will you be able to combine them?
 
- * 2022-03-22 - April 2022 Jam officially announced
- * 2022-03-24 - April 2022 [Getting Started](https://youtu.be/4V4ZrB3o6g4) Video Released
- * 2022-03-27 - [Discord link](https://discord.gg/KuKzESDdbt) updated (old one expired)
- * 2022-04-01 - April 2022 Jam's Theme Officially Announced and Jam starts - ["Round"](Jam1_April_2022)
+link to project: https://github.com/JungerBoyo/TheWorld/releases/tag/game_jam_submission
 
-# Jason's C++ Best Practices Game Jam Official Rules
+# Team
 
-The C++ Best Practices Game Jam is a periodic friendly competition designed to promote the learning of C++ through game creation in an environment that makes it easy to apply Best Practices.
+ * JungerBoyo
 
-Be sure to read through this entire document. We want you to have fun, and have given you startup projects that help you succeed and apply all of the rules!
+# Interpretation of Theme
 
-Also, it's fine to start playing with the game project template today and familiarize yourself with it.
+ * The world represents pair of two opposities one of them is the round and the other the square!
 
-## Social Media
+# Other Things I Want To Share
 
-Please use #CppBestPracticesGameJam on social media, and feel free to add your Twitch / dev links here in a Pull Request:
-
-
-## Who is Jason and Why Does He Have a Game Jam?
-
-Jason Turner (aka lefticus):
-
- * Host of [C++ Weekly YouTube Channel](https://www.youtube.com/channel/UCxHAlbZQNFU2LgEtiqd2Maw)
- * Co-host of [CppCast](https://cppcast.com)
- * Author of the book "C++ Best Practices" and several C++ related puzzle books available on [Leanpub](https://leanpub.com/u/jason_turner) and [Amazon](https://www.amazon.com/Jason-Turner/e/B0034N9C8G%3Fref=dbs_a_mng_rwt_scns_share)
-
-At the start of 2022 Jason made it a goal of his channel and Twitter interactions to make C++ "Fun and Accessible." The hope is that this game jam provides a FUN environment for people to learn C++.
+ * explore!
 
 ## Code of Conduct
 
