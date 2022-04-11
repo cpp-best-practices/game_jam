@@ -25,4 +25,4 @@ We thought this was fitting the theme since:
 
 Excluded warnings are described in the project README.
 This game requires the terminal window to be fullscreen (or to reduce terminal font size enough to make it fit).
-In testing we had a experienced with windows binaries, since they are run in the native windows terminal which seems to have a very low refresh rate. Launching the game from powershell from the newer Windows Terminal results in a much better experience.
+In testing we had a terrible experience with windows binaries, since they are run in the native windows terminal which seems to have a very low refresh rate. Launching the game from powershell from the newer Windows Terminal results in a much better experience.
