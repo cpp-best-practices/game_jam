@@ -8,7 +8,7 @@
 
 Project repo: https://github.com/ArthurSonzogni/termBreaker
 
-Submission release: https://github.com/ArthurSonzogni/termBreaker/releases/tag/v0.0.3
+Submission release: https://github.com/ArthurSonzogni/termBreaker/releases/tag/v0.0.4
 
 **Screenshot**
 
