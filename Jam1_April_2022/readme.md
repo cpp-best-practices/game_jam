@@ -75,12 +75,7 @@ And some more stuff here, if you have other things to say
 * [Minesweeper Marathon](minesweeper_marathon.md) - @ebarlas - ![image](https://user-images.githubusercontent.com/234279/162768445-a83ac7d7-53cc-447d-914b-34e7266be6e7.png)
 * [smoothlife](smoothlife.md) - @baerlux - ![image](https://user-images.githubusercontent.com/234279/162768685-505da492-554c-4483-ba7a-ed75d96f8a4b.png)
 * [Sumo](sumo.md) - rusticobakko (@ilbakko), grisenti, NeeYume - ![image](https://user-images.githubusercontent.com/234279/162769151-87a525f4-6dc5-4778-b29d-63577c0bf200.png)
-
-
-## Additionally...
-
- * https://github.com/rseyyedi/rsey_game_jam/releases/tag/game_jam_submission was DM'd to me, but no official submission page was made
-
+* [15 Puzzle Game](15Puzzle.md) - @rseyyedi - ![image]()
 
 
 
