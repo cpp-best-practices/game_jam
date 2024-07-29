@@ -119,8 +119,7 @@ Teams of any size are allowed. Just be aware that coordinating large teams can b
  * FTXUI has a canvas: https://github.com/ArthurSonzogni/FTXUI/blob/master/examples/dom/canvas.cpp
  * The "homescreen" example shows how to do live animations / event loop https://arthursonzogni.com/FTXUI/examples/?file=component/homescreen
  * It should be possible to create a normal game loop
- * There are Unicode fonts which might prove to be useful: https://unicode-table.com/en/blocks/block-elements/ https://unicode-table.com/en/blocks/symbols-for-legacy-computing/
-
+ * There are Unicode fonts which might prove to be useful: https://symbl.cc/en/unicode/blocks/block-elements/ https://symbl.cc/en/unicode/blocks/symbols-for-legacy-computing/
 # Configuration Notes
 
 * clion on Windows is currently an untested configuration, and you might have difficulty getting ASAN, cppcheck, and clang-tidy to be found. They can be installed, but it will take manual work to get them located.
